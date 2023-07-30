@@ -1,4 +1,4 @@
-I am a UTSA student currently majoring in *fill in your major*.
+I am a UTSA student currently majoring in *Business Studies - Info Systems & Cyber Security*.
 
 :hammer_and_wrench: Technical Skills
 <div>
@@ -6,6 +6,5 @@ I am a UTSA student currently majoring in *fill in your major*.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/your-profile-url/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100080787280437">
 </div>
